@@ -1,2 +1,2 @@
-# JavaFX-project
+# JavaFX-project 🖥
 JavaFX project
